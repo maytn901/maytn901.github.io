@@ -1,8 +1,16 @@
 .head{ 
-font-weight: bold; font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-color: darkblue
+font-weight: bold; 
+color: darkslategray; font-size: 50px;
 }
 
-body {
+body{
     font-family: 'Boogaloo', cursive;
 }
+
+.panel-body{
+    height: 700px;
+}
+
+.button_2 {
+    margin-left: 30px;
+  }
