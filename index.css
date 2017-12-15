@@ -1,6 +1,6 @@
 .coco{ 
     font-weight: bold; font-family: Arial, Helvetica, sans-serif;
-    color: darkslategrey
+    color: firebrick; font-size: 40px;
     }
 
 .mybody{
@@ -8,6 +8,6 @@
 }
 
 .h2{ 
-    font-weight: bold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue
+    font-weight: bold; font-family: Georgia;
+    color: blue; 
     }

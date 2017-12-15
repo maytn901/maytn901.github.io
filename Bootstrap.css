@@ -1,12 +1,28 @@
+.container{
+    margin-top: 30px;
+}
+
+.mybody{
+    background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/02/malissa-ryder-6.jpg");
+}
+
 .head{ 
 font-weight: bold; 
 color: darkslategray; font-size: 50px; font-family: 'Permanent Marker', cursive;
 }
 
+.bodytext{
+    font-family: 'Boogaloo', cursive; font-size: 22px;
+
+}
 .panel-body{
-    height: 700px;
+    height: 550px;
 }
 
-.button_2 {
-    margin-left: 30px;
+.panel-heading{
+    font-size: 20px; font-weight: bold; 
+}
+
+.button{
+    margin: 10px;
   }
